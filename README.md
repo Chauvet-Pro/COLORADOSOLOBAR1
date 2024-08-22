@@ -2,6 +2,11 @@
 
 ## Software Versions
 
+[V1.1.3 - COLORado Solo Bar 1](https://github.com/Chauvet-Pro/COLORADOSOLOBAR1/blob/940d52a0be98f7b5826f9c548e5511dc94ef1e33/Firmware/V1.1.3.zip)
+- Improved calibration algorithms for XY per cell modes
+- Fixed typo in personality names
+- ***IMPORTANT: For fixtures with v1.0.XXX or earlier – These fixtures can be updated, but precise color matching to the XY coordinate in the new modes (x Cell XY) is not guaranteed to be accurate until fixtures are recalibrated by Chauvet.***
+
 [V1.1.2 - COLORado Solo Bar 1](https://github.com/Chauvet-Pro/COLORADOSOLOBAR1/blob/da6bea9bed0713e89ba67e399e3adf554c26f455/Firmware/V1.1.2.zip)
 - Added calibrated XY control modes with individual cell and section control
 - ***IMPORTANT: For fixtures with v1.0.XXX or earlier – These fixtures can be updated, but precise color matching to the XY coordinate in the new modes (x Cell XY) is not guaranteed to be accurate until fixtures are recalibrated by Chauvet.***
