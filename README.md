@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.1.3.5 - COLORado Solo Bar 1](https://github.com/Chauvet-Pro/COLORADOSOLOBAR1/blob/main/Firmware/V1.1.3.5.zip)
+- Enhances low-end dimming
+
 [V1.1.3 - COLORado Solo Bar 1](https://github.com/Chauvet-Pro/COLORADOSOLOBAR1/blob/940d52a0be98f7b5826f9c548e5511dc94ef1e33/Firmware/V1.1.3.zip)
 - Improved calibration algorithms for XY per cell modes
 - Fixed typo in personality names
