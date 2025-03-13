@@ -2,6 +2,12 @@
 
 ## Software Versions
 
+[V1.1.4 - COLORado Solo Bar 1](https://github.com/Chauvet-Pro/COLORADOSOLOBAR1/blob/d962f777ed3b78d23ae46f9fd24de39c41d2f56c/Firmware/V1.1.4.zip)
+- Enhanced dimming performance
+- Resolved color shift artifact with Red Shift enabled
+- Refined Red Shift effect for improved quality and reliability
+- Addressed a connection failure anomaly with Art-Net Universe when set to 0 during power-on
+
 [V1.1.3.5 - COLORado Solo Bar 1](https://github.com/Chauvet-Pro/COLORADOSOLOBAR1/blob/main/Firmware/V1.1.3.5.zip)
 - Enhances low-end dimming
 
